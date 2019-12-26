@@ -1,6 +1,5 @@
-# neufrl_uav_wiki
-Checkout our wiki https://github.com/mithunvarma/neufrl_uav_wiki/wiki
-
+# neufrl_uav_docs wiki
+Checkout our wiki https://github.com/mithunvarma/neufrl_uav_docs/wiki
 
 
 
