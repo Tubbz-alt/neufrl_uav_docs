@@ -1,11 +1,8 @@
-# neufrl_uav_docs wiki
+# neufrl_uav_docs wiki/webpage
 
-#status : work-in-progess
+# status : work-in-progess
 
-Checkout our wiki https://github.com/mithunvarma/neufrl_uav_docs/wiki
-
-webpage for docs at foo.github.io
-
+Checkout our docs https://neufieldrobotics.github.io/neufrl_uav_docs/
 
 Copyright (c) 2019 - 2020 Northeastern University Field Robotics Lab (NEUFRL)
 
